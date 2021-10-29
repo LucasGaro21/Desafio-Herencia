@@ -1,0 +1,10 @@
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\bin\Debug\DesafioHerenciaa.exe.config
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\bin\Debug\DesafioHerenciaa.exe
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\bin\Debug\DesafioHerenciaa.pdb
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\obj\Debug\DesafioHerenciaa.csproj.AssemblyReference.cache
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\obj\Debug\DesafioHerenciaa.Properties.Resources.resources
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\obj\Debug\DesafioHerenciaa.csproj.GenerateResource.cache
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\obj\Debug\DesafioHerenciaa.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\obj\Debug\DesafioHerenciaa.exe
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\obj\Debug\DesafioHerenciaa.pdb
+D:\Visual Studio\Trabajos\DesafioHerenciaa\DesafioHerenciaa\obj\Debug\Inmueble_forms.Form1.resources
