@@ -81,7 +81,7 @@ namespace Inmueble_forms
             this.textTipoInmueble.TabIndex = 3;
             this.textTipoInmueble.TabStop = false;
             this.textTipoInmueble.Text = "Tipo De Inmuble";
-            this.textTipoInmueble.Enter += new System.EventHandler(this.textTipoInmueble_Enter);
+ 
             // 
             // textoPisoNro
             // 
@@ -247,6 +247,7 @@ namespace Inmueble_forms
             this.PerformLayout();
 
         }
+    
 
 
         private void botonPiso_CheckedChanged(object sender, EventArgs e)
@@ -281,7 +282,7 @@ namespace Inmueble_forms
                     Piso piso1 = new Piso(precioBasePiso, antiguedadPiso, numeroPiso, direccionPiso);
 
 
-                    textoPrecioFinal.Text = "El precio del Piso es: $" + piso1.calcularPrecioFinalPiso() + "\nCon direccion en " + piso1.Direccion;
+                    MessageBox.Show ("Direccion: " + piso1.Direccion + "\nPrecio del Piso es: $" + piso1.calcularPrecioFinalPiso() );
 
                 }
             }
@@ -303,7 +304,7 @@ namespace Inmueble_forms
 
                     Local local1 = new Local(precioBaseLocal, antiguedadLocal, metros, nroVentanas, direccionLocal);
 
-                    textoPrecioFinal.Text = "El precio del Local es: $" + local1.calcularPrecioFinalLocal() + "\nCon direccion en " + local1.Direccion;
+                    MessageBox.Show ("Direccion: " + local1.Direccion + "\nPrecio del Local es: $" + local1.calcularPrecioFinalLocal() );
 
                 }  
             }
@@ -313,9 +314,6 @@ namespace Inmueble_forms
             }
         }
 
-        private void textTipoInmueble_Enter(object sender, EventArgs e)
-        {
 
-        }
     }
 }
